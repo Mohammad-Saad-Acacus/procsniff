@@ -1,6 +1,3 @@
-### File: `README.md`
-
-````markdown
 # Procsniff - Process Traffic Sniffer
 
 Capture network traffic of individual processes using Linux network namespaces.
@@ -19,7 +16,6 @@ Capture network traffic of individual processes using Linux network namespaces.
 sudo ./procsniff.sh OUTPUT.pcap PROGRAM [ARGS...]
 sudo ./procsniff.sh - PROGRAM [ARGS...]  # Real-time output
 ```
-````
 
 ## Examples
 
